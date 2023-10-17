@@ -38,7 +38,9 @@ Descarga el plugin y solo subelo a tu Wordpress desde el instalador de Plugins
 ## Contactos
 
 Mail: edward@ajamba.org
+
 Teléfono: +591 61781119
+
 Whatsapp: https://wa.me/59161781119
 
 ## Desarrollado por
