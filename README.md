@@ -1,5 +1,9 @@
 # puntos-dragon
-Agrega un campo puntos a los productos y cuando el usuario compra un producto de Woocommerce que tenga puntos agregados, estos puntos se transfieren al usuario. También el Administrador puede dar puntos, los usuarios pueden trasnsferirse puntos entre si. 
+El plugin trabaja con Buddypress, Woocommerce, y el Codex de Wordpress. Esta realizado con PHP, MsQL, JavaScript, Jquery, Ajax, CSS3, y Core de Wordpress
+
+Agrega un campo créditos a los productos y cuando el usuario compra un producto de Woocommerce que tenga créditos agregados, estos créditos se transfieren al usuario. También el Administrador puede dar créditos, los usuarios pueden trasnsferirse créditos entre si. 
+
+Tambien crea Partidas Épicas donde se usan 50 créditos para crear y unirse a una partida épica.
 
 ## Imagenes del Plugin
 ![Imagen 1](https://github.com/kirusiya/puntos-dragon/raw/main/img-plugin/dragon-1.jpg)
@@ -28,4 +32,16 @@ Agrega un campo puntos a los productos y cuando el usuario compra un producto de
 
 
 ## Instalación
+
 Descarga el plugin y solo subelo a tu Wordpress desde el instalador de Plugins
+
+## Contactos
+
+Mail: edward@ajamba.org
+Teléfono: +591 61781119
+Whatsapp: https://wa.me/59161781119
+
+## Desarrollado por
+
+Ing. Edward Avalos | Ajamba.org - Todos los derechos Reservados
+
