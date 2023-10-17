@@ -4,6 +4,8 @@ Agrega un campo puntos a los productos y cuando el usuario compra un producto de
 ## Imagenes del Plugin
 ![Imagen 1](https://github.com/kirusiya/puntos-dragon/raw/main/img-plugin/dragon-1.jpg)
 
+![Imagen 2](https://github.com/kirusiya/puntos-dragon/raw/main/img-plugin/dragon-2.jpg)
+
 
 
 ## Instalación
