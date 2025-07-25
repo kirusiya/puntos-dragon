@@ -35,14 +35,6 @@ Tambien crea Partidas Épicas donde se usan 50 créditos para crear y unirse a u
 
 Descarga el plugin y solo subelo a tu Wordpress desde el instalador de Plugins
 
-## Contactos
-
-Mail: edward@ajamba.org
-
-Teléfono: +591 61781119
-
-Whatsapp: https://wa.me/59161781119
-
 ---
 
 ## 🔣 Developer   
